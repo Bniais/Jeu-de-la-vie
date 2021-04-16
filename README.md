@@ -1,5 +1,9 @@
 # Jeu de la vie
 
+Classe principale : JeuDeLaVie
+
+Pour executer : Depuis le dossier bin, executer "java -cp . src.Jeu.JeuDeLaVie"
+
 Interface pour créer, contrôler et observer des modes de jeu et configurations pour le jeu de la vie. 
 
 Dans le cadre du module Design Pattern
